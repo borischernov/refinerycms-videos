@@ -1,4 +1,4 @@
-require 'refinerycms-base'
+require 'refinerycms-core'
 
 module Refinery
   autoload :VideosGenerator, 'generators/refinery/videos_generator'
