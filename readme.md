@@ -6,13 +6,13 @@ This version of `refinerycms-videos` supports Rails 3.1.x and up.
 
 ## Requirements
 
-Refinery CMS version 2.0.x.
+Refinery CMS version 2.1.x.
 
 ## Install
 
 Open up your ``Gemfile`` and add the following:
 
-    gem 'refinerycms-videos', '~> 2.0.1'
+    gem 'refinerycms-videos', '~> 2.1.1'
 
 Now, run:
 
